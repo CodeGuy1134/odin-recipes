@@ -33,7 +33,7 @@ img {
     scroll-snap-type: x mandatory;
 }
 
-.carousel .li {
+.carousel li {
     list-style-type: none;
     background-color: #eeeeee;
     border: 1px solid #dddddd;
